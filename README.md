@@ -7,7 +7,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <URL_вашего_репозитория>
+   git clone git@github.com:kapitandeniza/universkiy.git
    cd car_project
    ```
 
