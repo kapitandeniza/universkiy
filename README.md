@@ -51,8 +51,8 @@
    ```bash
    POST /api/token/
    {
-      "username": "ваш_логин",
-      "password": "ваш_пароль"
+      "username": "maxim",
+      "password": "1234567t"
    }
    ```
 
